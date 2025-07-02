@@ -1,0 +1,14 @@
+{
+  "name": "note-manager-fullstack",
+  "version": "1.0.0",
+  "description": "Simple full-stack Note Manager with Express API and vanilla JS front-end",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
